@@ -1,6 +1,6 @@
 # Product Analytics
 
-## sudden drop in UBER rides booking by 30%, need to find the root cause analysis
+## Sudden drop in UBER rides booking by 30%, need to find the root cause analysis
 
 **CRIEd Framework:**
 
