@@ -1,7 +1,9 @@
 # Product Analytics
 
 ## In one specific month, uber revenue dropped
+
 **CRIEd Framework:**
+
 **Clarify:**
 - Seek clarification on the specific metrics used to define and measure revenue.
 - Ensure a clear understanding of the time frame and any external events that might have influenced the revenue drop.
@@ -19,6 +21,7 @@
 - If external factors were identified, provide a brief analysis of their impact. However, prioritize exploring internal factors since they are within the company's control.
 
 **TROPiCS Framework for Internal Factors:**
+
 **Time-related Factor:**
 - Investigate if there were any time-related factors within the specified month, such as holidays, special events, or seasonal trends that might have influenced user behavior and, subsequently, revenue.
 
